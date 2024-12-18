@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "templates/템플릿.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "템플릿"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/템플릿.md",
-                "mode": "preview",
+                "file": "templates/남한의 템플릿.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "템플릿"
+              "title": "남한의 템플릿"
             }
           }
         ]
@@ -186,17 +186,18 @@
   },
   "active": "a8cc89dacf2767ee",
   "lastOpenFiles": [
+    "templates/템플릿.md",
     "Untitled.md",
-    "fleeting notes/프로렉트 원 마이..md",
+    "templates/남한의 템플릿.md",
     "fleeting notes/Untitled.md",
     "fleeting notes/Untitled 2.md",
     "fleeting notes/Untitled 1.md",
+    "fleeting notes/프로렉트 원 마이..md",
     "fleeting notes",
     "Excalidraw/Drawing 2024-12-18 15.14.41.excalidraw.md",
     "Excalidraw",
     "data images/Pasted image 20241218144130.png",
     "data images",
-    "templates/템플릿.md",
     "templates",
     "새 텍스트 문서.txt"
   ]
