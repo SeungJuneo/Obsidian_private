@@ -15,6 +15,26 @@
               "state": {
                 "file": "Untitled.md",
                 "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4d0ac69bd0ccb94e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8cc89dacf2767ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -164,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9dd235991e9ade8",
+  "active": "a8cc89dacf2767ee",
   "lastOpenFiles": [
     "새 텍스트 문서.txt",
     "Untitled.md"
