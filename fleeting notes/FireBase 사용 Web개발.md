@@ -22,8 +22,7 @@ tags:
 	- 실시간 채팅 기능: collection 사용  
 	- DB 실시간반영
 ## ❓ 질문
--  collection이 무엇인가요? 
-- 
+-  collection이 무엇인가요? : firebase에서 **collection**은 데이터를 문서 형태로 저장하는 그룹화 단위입니다.
 ## 📌 주요 참고 링크
 - [[]] 
 - [[]]
