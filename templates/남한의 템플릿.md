@@ -1,5 +1,5 @@
 ---
-date: {[date:YYYY-MM-DD]}
+date: {{date:YYYY-MM-DD}}
 tags:
 ---
 ## 📚 학습 목표 
