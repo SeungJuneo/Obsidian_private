@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fleeting notes/FireBase 사용 Web개발.md",
+                "file": "templates/빠르게 적어야하는 노트.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "FireBase 사용 Web개발"
+              "title": "빠르게 적어야하는 노트"
             }
           }
         ],
