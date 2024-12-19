@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fleeting notes/Untitled 4.md",
+                "file": "templates/템플릿.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled 4"
+              "title": "템플릿"
             }
           }
         ],
@@ -295,9 +295,9 @@
   "active": "9928a3f5d07109d8",
   "lastOpenFiles": [
     "templates/남한의 템플릿.md",
-    "fleeting notes/Untitled 4.md",
     "templates/템플릿.md",
     "fleeting notes/Untitled.md",
+    "fleeting notes/Untitled 4.md",
     "fleeting notes/Untitled 1.md",
     "fleeting notes/Untitled 2.md",
     "fleeting notes/Untitled 3.md",
