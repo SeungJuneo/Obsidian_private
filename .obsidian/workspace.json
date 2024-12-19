@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "남한의 템플릿"
             }
+          },
+          {
+            "id": "b3bc9a90a0f0b78e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fleeting notes/Untitled 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 4"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -222,10 +236,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7585c27b4c4749c5",
+  "active": "b3bc9a90a0f0b78e",
   "lastOpenFiles": [
-    "fleeting notes/Untitled 4.md",
     "templates/남한의 템플릿.md",
+    "fleeting notes/Untitled 4.md",
     "templates/템플릿.md",
     "fleeting notes/Untitled 3.md",
     "fleeting notes/Untitled 2.md",
