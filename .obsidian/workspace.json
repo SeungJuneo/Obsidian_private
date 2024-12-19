@@ -123,14 +123,10 @@
             "id": "2506e77255180631",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/남한의 템플릿.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "남한의 템플릿"
+              "title": "New tab"
             }
           }
         ],
@@ -297,7 +293,7 @@
     "Pasted image 20241219113635.png",
     "fleeting notes/Untitled 1.md",
     "templates/빠르게 적어야할 노트.md",
-    "templates/남한의 템플릿.md",
+    "templates/나만의 템플릿.md",
     "templates/템플릿.md",
     "templates/빠르게 적어야하는 노트.md",
     "fleeting notes/Untitled 2.md",
