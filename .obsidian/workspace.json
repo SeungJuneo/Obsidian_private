@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fleeting notes/FireBase 사용 Web개발.md",
+                "file": "fleeting notes/firebase 시행착오들.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FireBase 사용 Web개발"
+              "title": "firebase 시행착오들"
             }
           }
         ],
@@ -350,8 +350,8 @@
   },
   "active": "69260fb8db6b03ec",
   "lastOpenFiles": [
-    "fleeting notes/firebase 시행착오들.md",
     "fleeting notes/FireBase 사용 Web개발.md",
+    "fleeting notes/firebase 시행착오들.md",
     "fleeting notes/프로렉트 원 마이..md",
     "fleeting notes/Untitled.md",
     "templates/코드 이미지 템플릿.md",

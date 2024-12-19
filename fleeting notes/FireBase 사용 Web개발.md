@@ -28,4 +28,4 @@ tags:
 ## 📌 주요 참고 링크
 - [[https://codingapple.com/course/firebase-project/]] 
 - [[https://stackoverflow.com/questions/69625907/how-can-i-change-this-firebase-version-8-code-to-version-9]]
-- ![[firebase 시행착오들]]
+- [[firebase 시행착오들]]
