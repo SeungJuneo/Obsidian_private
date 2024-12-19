@@ -14,7 +14,7 @@ tages:
 
 
 ![[Pasted image 20241219113954.png]]
-###### 변수명으로 한글이 가능합니다
+###### 변수명으로 한글도 가능합니다
 ```
 #데이터 읽고 쓰기
 getDocs(collection(db, "product"))

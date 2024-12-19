@@ -195,8 +195,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fleeting notes/firebase 시행착오들.md",
+                "file": "fleeting notes/FireBase 사용 Web개발.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FireBase 사용 Web개발"
+            }
+          }
+        ],
+        "currentTab": 13
+      },
+      {
+        "id": "6bdb65ce86d3b393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf0e9d7eba051ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fleeting notes/FireBase 사용 Web개발.md",
                 "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FireBase 사용 Web개발"
+            }
+          },
+          {
+            "id": "af2ef6ee277a9731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fleeting notes/firebase 시행착오들.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -204,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -350,8 +385,8 @@
   },
   "active": "69260fb8db6b03ec",
   "lastOpenFiles": [
-    "fleeting notes/FireBase 사용 Web개발.md",
     "fleeting notes/firebase 시행착오들.md",
+    "fleeting notes/FireBase 사용 Web개발.md",
     "fleeting notes/프로렉트 원 마이..md",
     "fleeting notes/Untitled.md",
     "templates/코드 이미지 템플릿.md",
