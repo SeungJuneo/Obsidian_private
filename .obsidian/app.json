@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "fleeting notes"
+  "newFileFolderPath": "fleeting notes",
+  "attachmentFolderPath": "attachments"
 }
