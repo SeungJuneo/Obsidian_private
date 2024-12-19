@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fleeting notes/참조하면 좋은 URL.md",
+                "file": "templates/남한의 템플릿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "참조하면 좋은 URL"
+              "title": "남한의 템플릿"
             }
           }
         ],
@@ -279,6 +279,9 @@
   },
   "active": "2506e77255180631",
   "lastOpenFiles": [
+    "templates/빠르게 적어야할 노트.md",
+    "templates/남한의 템플릿.md",
+    "templates/템플릿.md",
     "fleeting notes/참조하면 좋은 URL.md",
     "fleeting notes/FireBase 사용 Web개발.md",
     "fleeting notes/firebase 시행착오들.md",
@@ -297,9 +300,7 @@
     "Pasted image 20241219113657.png",
     "Pasted image 20241219113635.png",
     "fleeting notes/Untitled 1.md",
-    "templates/빠르게 적어야할 노트.md",
     "templates/나만의 템플릿.md",
-    "templates/템플릿.md",
     "templates/빠르게 적어야하는 노트.md",
     "fleeting notes/Untitled 2.md",
     "fleeting notes/Use fIre base.md",
