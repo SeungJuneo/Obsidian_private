@@ -112,33 +112,55 @@ getDocs(collection(db, "product"))
               }
 
             );
+           
+#firebase 상에서 회원가입 기능 제공
+    const db = getFirestore(app);
 
+    const storage = getStorage(app);
 
+    const auth = getAuth(app);
 
+    $("#register").click(function () {
 
+      const createUser = async (email, password) => {
 
+        try {
 
+          const 유저정보 = await createUserWithEmailAndPassword(
 
+            auth,
 
+            email,
 
+            password
 
+          );
 
+          const 유저 = 유저정보.user;
 
+          console.log("사용자 생성 성공:", 유저);
 
+        } catch (error) {
 
+          if (error.code === "auth/email-already-in-use") {
 
+            window.location.href = "/upload.html";
 
+          } else {
 
+            console.error("사용자 생성 실패:", error.code, error.message);
 
+          }
 
+        }
 
+      };
 
+      var email = $("#email-new").val();
 
+      var password = document.getElementById("pw-new").value;
 
+      createUser(email, password);
 
-
-
-
-
-
+    });
 ```
