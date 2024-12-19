@@ -1,5 +1,5 @@
 ---
-date: {{date:YYYY-MM-DD}}
-tagegun: {omg}
+date: 2024-12-19
+tagegun:
+  omg:
 ---
-아 진짜
