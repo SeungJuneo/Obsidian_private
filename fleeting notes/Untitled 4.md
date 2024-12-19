@@ -1,13 +1,9 @@
 ---
-date: 
+date: {[date:YYYY-MM-DD]}
 tags:
-  - firebase
-  - background
-  - frontend
-  - web
 ---
 ## 📚 학습 목표 
-- 이번 학습의 목표: SERVER를 사용하는 데 드는 시간을 줄이고 Web 개발을 배우기 위해.
+- 이번 학습의 목표: 
 ## 📝 오늘 배운 내용 
 
 - **주제**: 
