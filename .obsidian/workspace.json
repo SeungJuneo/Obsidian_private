@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fleeting notes/FireBase 사용 Web개발.md",
+                "file": "templates/코드 템플릿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FireBase 사용 Web개발"
+              "title": "코드 템플릿"
             }
           }
         ],
@@ -322,6 +322,8 @@
   },
   "active": "0d96e7c345a67126",
   "lastOpenFiles": [
+    "fleeting notes/FireBase 사용 Web개발.md",
+    "templates/코드 템플릿.md",
     "fleeting notes/Untitled.md",
     "templates/빠르게 적어야할 노트.md",
     "fleeting notes/Untitled 3.md",
@@ -329,7 +331,6 @@
     "templates/남한의 템플릿.md",
     "fleeting notes/프로렉트 원 마이..md",
     "templates/템플릿.md",
-    "fleeting notes/FireBase 사용 Web개발.md",
     "templates/빠르게 적어야하는 노트.md",
     "fleeting notes/Untitled 2.md",
     "fleeting notes/Untitled 1.md",
