@@ -1,7 +1,8 @@
 ---
 date:
-  "{ data:YYYY-MM-DD }": 
+  "{{data:YYYY-MM-DD}}"
 tages:
+  - firebase
 ---
 ![[Pasted image 20241219113904.png]]
 
