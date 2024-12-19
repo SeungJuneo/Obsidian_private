@@ -137,14 +137,10 @@
             "id": "9928a3f5d07109d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fleeting notes/FireBase 사용 Web개발.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "FireBase 사용 Web개발"
+              "title": "New tab"
             }
           }
         ],
@@ -323,12 +319,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9928a3f5d07109d8",
+  "active": "c01afaa99ad7154c",
   "lastOpenFiles": [
+    "fleeting notes/FireBase 사용 Web개발.md",
     "fleeting notes/firebase 시행착오들.md",
     "fleeting notes/Untitled 3.md",
     "fleeting notes/Drawing 2024-12-19 13.40.15.excalidraw.md",
-    "fleeting notes/FireBase 사용 Web개발.md",
     "fleeting notes/프로렉트 원 마이..md",
     "fleeting notes/Untitled.md",
     "templates/코드 이미지 템플릿.md",
