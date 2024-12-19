@@ -181,6 +181,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "fleeting notes/FireBase 사용 Web개발.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FireBase 사용 Web개발"
+            }
+          },
+          {
+            "id": "69260fb8db6b03ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "fleeting notes/firebase 시행착오들.md",
                 "mode": "source",
                 "source": false
@@ -190,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -334,10 +348,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2dc5723b05441201",
+  "active": "69260fb8db6b03ec",
   "lastOpenFiles": [
     "fleeting notes/FireBase 사용 Web개발.md",
     "fleeting notes/firebase 시행착오들.md",
+    "fleeting notes/프로렉트 원 마이..md",
     "fleeting notes/Untitled.md",
     "templates/코드 이미지 템플릿.md",
     "data images/Pasted image 20241219113954.png",
@@ -353,7 +368,6 @@
     "fleeting notes/Untitled 3.md",
     "templates/빠르게 적어야할 노트.md",
     "templates/남한의 템플릿.md",
-    "fleeting notes/프로렉트 원 마이..md",
     "templates/템플릿.md",
     "templates/빠르게 적어야하는 노트.md",
     "fleeting notes/Untitled 2.md",

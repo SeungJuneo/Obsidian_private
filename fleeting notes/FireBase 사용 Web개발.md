@@ -26,6 +26,6 @@ tags:
 ## ❓ 질문
 -  collection이 무엇인가요? : firebase에서 **collection**은 데이터를 문서 형태로 저장하는 그룹화 단위입니다.
 ## 📌 주요 참고 링크
-[[firebase 시행착오들]]
 - [[https://codingapple.com/course/firebase-project/]] 
 - [[https://stackoverflow.com/questions/69625907/how-can-i-change-this-firebase-version-8-code-to-version-9]]
+- ![[firebase 시행착오들]]
