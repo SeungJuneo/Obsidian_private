@@ -14,6 +14,7 @@ tages:
 
 
 ![[Pasted image 20241219113954.png]]
+###### 변수명으로 한글이 가능합니다
 ```
 #데이터 읽고 쓰기
 getDocs(collection(db, "product"))
@@ -63,8 +64,54 @@ getDocs(collection(db, "product"))
 
 
 
-#읽기
+#데이터 읽기
+업로드작업.on(
 
+              "state_changed",
+
+              null,
+
+              (error) => {
+
+                console.error("실패사유는", error);
+
+              },
+
+              () => {
+
+                getDownloadURL(업로드작업.snapshot.ref).then((url) => {
+
+                  console.log("업로드된 경로는", url);
+
+                  const docRef = addDoc(collection(db, "product"), {
+
+                    제목: 제목,
+
+                    가격: parseInt(가격),
+
+                    내용: 내용,
+
+                    위도: 위도,
+
+                    경도: 경도,
+
+                    날짜: new Date().toLocaleDateString(),
+
+                    Url: url,
+
+                  }).then((docRef) => {
+
+                    console.log("문서가 추가되었습니다. 문서 ID:", docRef.id);
+
+                    window.location.href = "/index.html";
+
+                  });
+
+                });
+
+              }
+
+            );
 
 
 
