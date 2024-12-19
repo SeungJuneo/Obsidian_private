@@ -15,6 +15,7 @@ tages:
 
 ![[Pasted image 20241219113954.png]]
 ```
+#데이터 읽고 쓰기
 getDocs(collection(db, "product"))
 
       .then((결과) => {
@@ -58,11 +59,11 @@ getDocs(collection(db, "product"))
         console.log("Error getting documents: ", error);
 
       });
-받아온 데이터
 
 
 
 
+#읽기
 
 
 
