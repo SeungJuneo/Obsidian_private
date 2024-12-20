@@ -8,9 +8,9 @@ aliases:
 
 
 # 코드 소스
-#powershellㅇ
+#powershell에서 #flame설치
 ```
-
+flutter pub add flame
 ```
 
 # 코드 설명
