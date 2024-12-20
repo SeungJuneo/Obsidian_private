@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fleeting notes/Untitled 4.md",
+                "file": "templates/남한의 템플릿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 4"
+              "title": "남한의 템플릿"
             }
           },
           {
@@ -289,8 +289,8 @@
   },
   "active": "2506e77255180631",
   "lastOpenFiles": [
-    "templates/템플릿.md",
     "fleeting notes/Untitled 4.md",
+    "templates/템플릿.md",
     "fleeting notes/FireBase 사용 Web개발.md",
     "fleeting notes/참조하면 좋은 URL.md",
     "fleeting notes/Untitled 2.md",
