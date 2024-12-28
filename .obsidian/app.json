@@ -1,12 +1,1 @@
-{
-  "alwaysUpdateLinks": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "fleeting notes",
-  "attachmentFolderPath": "data images",
-  "pdfExportSettings": {
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  }
-}
+{}
