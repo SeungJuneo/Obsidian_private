@@ -11,10 +11,14 @@
             "id": "9a8673f2b803bdbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/남한의 템플릿.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "남한의 템플릿"
             }
           }
         ]
