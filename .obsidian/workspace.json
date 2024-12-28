@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/남한의 템플릿.md",
+                "file": "fleeting notes/firebase 시행착오들.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "남한의 템플릿"
+              "title": "firebase 시행착오들"
             }
           }
         ]
@@ -161,5 +161,15 @@
     }
   },
   "active": "9a8673f2b803bdbe",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "fleeting notes/Untitled.md",
+    "fleeting notes/Untitled 1.md",
+    "fleeting notes/Untitled 2.md",
+    "fleeting notes/Untitled 3.md",
+    "fleeting notes/FireBase 사용 Web개발.md",
+    "fleeting notes/firebase 시행착오들.md",
+    "fleeting notes/참조하면 좋은 URL.md",
+    "fleeting notes/프로렉트 원 마이..md",
+    "templates/남한의 템플릿.md"
+  ]
 }
